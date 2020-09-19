@@ -8,9 +8,11 @@ I am entering my 2nd year in the Bioinformatics PhD program at the University of
  <br>
 I'm passionate about bringing more computer skills and analytical thinking into the classroom, so if you feel similarly, I'd love to chat about available resources and strategies. 
  <br>
+ <br>
 <font size=3> <b> Outside of the lab.... </b> </font>
  <br>
 I enjoy backpacking, kayaking, and anything that involves fresh air and sunshine. When I'm not on the move, I can usually be found drinking coffee and googling new recipes, under the watchful supervision of my cat, Miso.
+ <br>
  <br>
 <font size=3> <b> Contact me </b> </font>
  <br>
