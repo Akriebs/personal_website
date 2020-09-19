@@ -1,5 +1,8 @@
 # About Me
+<img src="/master/linkedin%20(3).JPG" alt="hi" class="inline"/>
 I am entering my 2nd year in the Bioinformatics PhD program at the University of Michigan, where I work under the guidance of Dr. Joshua Welch. My work centers around developing machine learning methods to address biological questions of interest. Some of the questions I am currently interested in are how we can best ascertain cell development trajectories and how we can best integration of multimodal data. 
+
+
  <html>
   <font size=3> <b> Giving Back </b> </font>
 I'm passionate about bringing more computer skills and analytical thinking into the classroom, so if you feel similarly, I'd love to chat about available resources and strategies. 
